@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+.virtaulenv/
+*.egg-info/
+pip-log.txt
+*.log
+templates/__pycache__/
+app.py.c
+app.py.o
+app.py.d
+run.sh~
+*.iml
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+.cache
+*.tmp
+*.tmp~
+*.orig
+*.old
+*.bak
+*.bkp
+*.backup
+*.tmp_files
+*.tmp_dirs
+ pip.debug.log
+pip.error.log
+pip.log
+
+Note: I've added some common files and directories that are typically ignored in a Python project, including IDE-specific files and temporary files.
